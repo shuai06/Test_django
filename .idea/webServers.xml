@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ssh://pyvip@127.0.0.1:2345/home/pyvip/.virtualenvs/test/bin/python3" name="ssh://pyvip@127.0.0.1:2345/home/pyvip/.virtualenvs/test/bin/python3" url="http://127.0.0.1/">
+        <fileTransfer host="127.0.0.1" port="2345" accessType="SFTP">
+          <option name="port" value="2345" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
